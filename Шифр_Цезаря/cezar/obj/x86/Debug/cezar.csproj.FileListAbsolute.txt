@@ -1,0 +1,39 @@
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\cezar\cezar\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\cezar\cezar\obj\x86\Debug\cezar.Form1.resources
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\cezar\cezar\obj\x86\Debug\cezar.Properties.Resources.resources
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\cezar\cezar\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\cezar\cezar\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\cezar\cezar\bin\Debug\cezar.exe
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\cezar\cezar\bin\Debug\cezar.pdb
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\cezar\cezar\obj\x86\Debug\cezar.exe
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\cezar\cezar\obj\x86\Debug\cezar.pdb
+C:\Documents and Settings\Abylay\My Documents\Visual Studio 2010\Projects\cezar\cezar\bin\Debug\cezar.exe.config
+C:\Documents and Settings\Abylay\My Documents\Visual Studio 2010\Projects\cezar\cezar\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Abylay\My Documents\Visual Studio 2010\Projects\cezar\cezar\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Frozen_Heart\Desktop\cezar\cezar\bin\Debug\cezar.exe.config
+C:\Users\Frozen_Heart\Desktop\cezar\cezar\obj\x86\Debug\cezar.exe
+C:\Users\Frozen_Heart\Desktop\cezar\cezar\obj\x86\Debug\cezar.pdb
+C:\Users\Frozen_Heart\Desktop\cezar\cezar\bin\Debug\cezar.exe
+C:\Users\Frozen_Heart\Desktop\cezar\cezar\bin\Debug\cezar.pdb
+C:\Users\Frozen_Heart\Desktop\cezar\cezar\obj\x86\Debug\cezar.csprojResolveAssemblyReference.cache
+C:\Users\Frozen_Heart\Desktop\cezar\cezar\obj\x86\Debug\cezar.Form1.resources
+C:\Users\Frozen_Heart\Desktop\cezar\cezar\obj\x86\Debug\cezar.Properties.Resources.resources
+C:\Users\Frozen_Heart\Desktop\cezar\cezar\obj\x86\Debug\cezar.csproj.GenerateResource.Cache
+J:\cezar\cezar\bin\Debug\cezar.exe.config
+J:\cezar\cezar\obj\x86\Debug\cezar.exe
+J:\cezar\cezar\obj\x86\Debug\cezar.pdb
+J:\cezar\cezar\bin\Debug\cezar.exe
+J:\cezar\cezar\bin\Debug\cezar.pdb
+J:\cezar\cezar\obj\x86\Debug\cezar.csprojResolveAssemblyReference.cache
+J:\cezar\cezar\obj\x86\Debug\cezar.Form1.resources
+J:\cezar\cezar\obj\x86\Debug\cezar.Properties.Resources.resources
+J:\cezar\cezar\obj\x86\Debug\cezar.csproj.GenerateResource.Cache
+d:\Сollege\Колледж 4 курс\TZI\Шифр_Цезаря\cezar\bin\Debug\cezar.exe.config
+d:\Сollege\Колледж 4 курс\TZI\Шифр_Цезаря\cezar\bin\Debug\cezar.exe
+d:\Сollege\Колледж 4 курс\TZI\Шифр_Цезаря\cezar\bin\Debug\cezar.pdb
+d:\Сollege\Колледж 4 курс\TZI\Шифр_Цезаря\cezar\obj\x86\Debug\cezar.csprojResolveAssemblyReference.cache
+d:\Сollege\Колледж 4 курс\TZI\Шифр_Цезаря\cezar\obj\x86\Debug\cezar.Form1.resources
+d:\Сollege\Колледж 4 курс\TZI\Шифр_Цезаря\cezar\obj\x86\Debug\cezar.Properties.Resources.resources
+d:\Сollege\Колледж 4 курс\TZI\Шифр_Цезаря\cezar\obj\x86\Debug\cezar.csproj.GenerateResource.Cache
+d:\Сollege\Колледж 4 курс\TZI\Шифр_Цезаря\cezar\obj\x86\Debug\cezar.exe
+d:\Сollege\Колледж 4 курс\TZI\Шифр_Цезаря\cezar\obj\x86\Debug\cezar.pdb
